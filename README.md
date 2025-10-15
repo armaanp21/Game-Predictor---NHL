@@ -63,3 +63,5 @@ This is a Streamlit web application that predicts whether an NHL team will win o
 # Game-Predictor NHL
 NHL hockey game predictor that predicts whether the team will win or lose based on data. Built with Streamlit.
 
+# Link to app: https://game-predictor---nhl-nbcpt4pyzyfg5axlpspzxz.streamlit.app/
+
