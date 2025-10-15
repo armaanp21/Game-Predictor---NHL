@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NHL Hockey Outcome Predictor (Streamlit App)
 
 This is a Streamlit web application that predicts whether an NHL team will win or lose based on input statistics like Goals, Shots, Fenwick For, Corsi For, and other advanced metrics. The model uses a trained Random Forest Classifier to generate real-time predictions.
@@ -58,3 +59,7 @@ This is a Streamlit web application that predicts whether an NHL team will win o
 
 ---
 
+=======
+# Game-Predictor NHL
+NHL hockey game predictor that predicts whether the team will win or lose based on data. Built with Streamlit.
+>>>>>>> e617541eaaf40667e7bb439b67c3a48b69e956c5
